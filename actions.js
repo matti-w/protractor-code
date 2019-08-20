@@ -1,4 +1,3 @@
-import { browser } from "protractor";
 
 describe('Actions demo', function() {
     

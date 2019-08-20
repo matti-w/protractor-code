@@ -15,7 +15,7 @@
     "protractor": "./node_modules/.bin/protractor configuration.js",
     "SmokeSuite": "./node_modules/.bin/protractor configuration.js --suite Smoke",
     "Regression": "./node_modules/.bin/protractor configuration.js --suite Regression",
-    "start": "npm run webdriver-update &&npm run webdriver-start && npm run protractor"
+    "start": "npm run webdriver-update &&npm run webdriver-start "
    },
 
   "author": "Matti-w",
